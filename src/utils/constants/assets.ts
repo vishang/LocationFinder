@@ -1,3 +1,3 @@
 export const images = {
-  triangle: require('../assets/icons/triangle.jpg'),
+  triangle: require('../../assets/icons/triangle.jpg'),
 };

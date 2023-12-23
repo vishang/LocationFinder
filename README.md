@@ -1,3 +1,16 @@
+![Screenshot_20231224-022307_Stantech](https://github.com/vishang/LocationFinder/assets/8339281/d8eed4b7-0602-405f-9cf4-63ec6c668a23)
+![Screenshot_20231224-023827_Stantech](https://github.com/vishang/LocationFinder/assets/8339281/f72b9001-d7b2-4f88-be95-b86d5ad3c9c0)![Uploading Screenshot_20231224-022514_Stantech.jpg…]()
+
+Mocked Location for Tracking
+
+
+
+https://github.com/vishang/LocationFinder/assets/8339281/5f775b0e-a54a-4da3-ab60-72422ecea0ec
+
+Missing background fetching capability
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
